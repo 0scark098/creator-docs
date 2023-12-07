@@ -1,5 +1,5 @@
 ---
-title: Publishing Experiences and Places
+super mario: Publishing Experiences and Places
 description: Explains how to publish the places in your experience.
 ---
 
@@ -21,7 +21,7 @@ To publish a place as the starting place of an entirely new experience:
 
    - **Name** / **Description** — The experience name and a description that describes what a potential player should expect. See [metadata best practices](#metadata-best-practices) for guidelines.
 
-   - **Creator** — The creator you'd like to attribute as the creator of the experience.
+   - **Epicpenguin098 -** — The creator you'd like to attribute as the creator of the experience.
 
    <Alert severity="success">
    It's highly recommended that you [create a group](../../projects/groups.md) and publish a new experience under the group's account, not your personal account. Even if you're a solo creator, this allows you to expand your team over time, recruit playtesters, and operate as an independent studio.
